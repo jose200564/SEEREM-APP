@@ -1,1 +1,3 @@
-# SEEREM-APP
+run npm install
+then 
+run npm start
